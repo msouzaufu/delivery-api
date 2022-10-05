@@ -29,5 +29,5 @@ Insira um gif ou um link de alguma demonstração
 
 ## Versionamento
 
-- 4.22
+- 4.24
 
